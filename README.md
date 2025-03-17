@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer dedicated to
 - 👯 I’m looking to collaborate on **open-source projects** and innovative solutions that make an impact.
 - 🤔 I’m looking for help with **optimizing performance and integrating new technologies** into my projects.
 - 💬 Ask me about **full stack development, best practices in coding, or my favorite tools and frameworks**.
-- 📫 How to reach me: **[Email Me](arbabtahir2244@gmail.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/marbabtahir).
+- 📫 How to reach me: **[arbabtahir2244@gmail.com]** or connect with me on [LinkedIn](https://www.linkedin.com/in/marbabtahir).
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: **I love solving puzzles and diving into the latest tech trends during my free time!**
 
