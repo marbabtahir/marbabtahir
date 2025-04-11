@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer dedicated to
 - **Front-End:** HTML, CSS, JavaScript, React, Next.js, Vue.js
 - **Back-End:** Node.js, Python, Django, Express.js
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Practices:** Git, Docker, REST APIs, CI/CD pipelines
+- **Tools & Practices:** Git, Docker, REST APIs, CI/CD pipelines, AWS, VPS
 <!--
 ## Projects
 
