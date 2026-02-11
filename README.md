@@ -2,11 +2,11 @@
 
 # I'm Arbab Tahir! 😃
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer dedicated to creating innovative, scalable, and user-friendly web applications, saas base products, and tools. My work revolves around building clean, efficient code and bringing creative ideas to life.
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer dedicated to creating innovative, scalable, and user-friendly applications, saas base products, and tools. My work revolves around building clean, efficient code and bringing creative ideas to life.
 
 ## About Me
 
-- 🔭 I’m currently working on **developing dynamic web applications, saas base products, and tools** using modern frameworks and cloud technologies.
+- 🔭 I’m currently working on **developing dynamic applications, saas base products, and AI tools** using modern frameworks and cloud technologies.
 - 🌱 I’m currently learning **advanced cloud architectures and data-driven design patterns** to further enhance my skills.
 - 👯 I’m looking to collaborate on **open-source projects** and innovative solutions that make an impact.
 - 🤔 I’m looking for help with **optimizing performance and integrating new technologies** into my projects.
@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer dedicated to
 
 ## Technologies & Tools
 
-- **Front-End:** HTML, CSS, JavaScript, React, Next.js, Vue.js
-- **Back-End:** Node.js, Python, Django, Express.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Front-End:** HTML, CSS, JavaScript, React, Next.js, Vue.js, Nuxt.js, TypeScript
+- **Back-End:** Node.js, Nest.js, TypeScript, Express.js
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server, Firebase
 - **Tools & Practices:** Git, Docker, REST APIs, CI/CD pipelines, AWS, VPS
 <!--
 ## Projects
